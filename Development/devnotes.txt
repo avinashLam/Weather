@@ -1,0 +1,6 @@
+Tasks
+create account in github
+create repo springboot rest api repo and commit the code
+and share the github repo link to ram
+Complete hands on git commands-example git add,git commit,git push,
+git merge,..etc
